@@ -202,7 +202,8 @@
 }
 .last-banner-content h2{
     padding-top: 16px;
-    width: 700px;
+    width: 90%;
+    max-width: 700px;
     height: 116px;
     font-size: 700;
     font-size: 48px;
@@ -219,7 +220,8 @@
 }
 .last-banner-content p{
     padding-top: 16px;
-    width: 700px;
+    width: 65%;
+    max-width: 700px;
     height: 60px;
     color: #627382;
     padding-bottom: 40px;
@@ -229,8 +231,15 @@
     padding: 120px;
     background-color: #FFFFFF;
 }
-.last-banner-content h5{
-    padding-top: 16px;
+.last-banner-content .checkcircle{
+    margin-top: 46px;
+}
+.last-banner-content .checkcircle h5{
+    padding: 5px;
+    
+}
+.last-banner-content .checkcircle img{
+    
 }
 .last-section{
     margin-top: 120px;
